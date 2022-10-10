@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35feba7d-dc00-4efe-b8a6-16f4b5f94658" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DCc29J2Q9Iv0iTApB1IvH8OAiH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35feba7d-dc00-4efe-b8a6-16f4b5f94658" name="Default Changelist" comment="" />
+      <created>1660206296903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660206296903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="203" width="374" height="487" key="FileChooserDialogImpl" timestamp="1660463469013">
+      <screen x="67" y="27" width="795" height="841" />
+    </state>
+    <state x="283" y="203" width="374" height="487" key="FileChooserDialogImpl/67.27.795.841@67.27.795.841" timestamp="1660463469013" />
+    <state x="327" y="202" width="424" height="484" key="FileChooserDialogImpl/67.27.955.837@67.27.955.837" timestamp="1660294264568" />
+    <state x="216" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1660294016739">
+      <screen x="67" y="27" width="955" height="837" />
+    </state>
+    <state x="223" y="274" key="com.intellij.ide.util.TipDialog/67.27.1001.841@67.27.1001.841" timestamp="1660221435735" />
+    <state x="225" y="274" key="com.intellij.ide.util.TipDialog/67.27.1013.841@67.27.1013.841" timestamp="1660274444832" />
+    <state x="216" y="273" key="com.intellij.ide.util.TipDialog/67.27.955.837@67.27.955.837" timestamp="1660294016739" />
+    <state x="346" y="136" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1660209885445">
+      <screen x="67" y="27" width="1001" height="841" />
+    </state>
+    <state x="346" y="136" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1001.841@67.27.1001.841" timestamp="1660209885445" />
+  </component>
+</project>
